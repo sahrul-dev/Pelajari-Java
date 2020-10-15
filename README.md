@@ -2,6 +2,7 @@
 
 jangan lupa dicompile dulu di cmd atau gitbash atau yang lain
 
+class diagramnya menyusul
 
  contoh : `javac xiaomi.java` subclass aja
 
