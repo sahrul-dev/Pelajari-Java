@@ -1,12 +1,13 @@
 # Pelajari-Java
 
-jangan lupa dicompile dulu
+jangan lupa dicompile dulu di cmd atau gitbash atau yang lain
 
-`javac xiaomi.java` subclass aja
+
+ contoh : `javac xiaomi.java` subclass aja
 
 lalu run 
 
-`java xiaomi.java` 
+contoh : `java xiaomi.java` 
 
 oke selesai
 
